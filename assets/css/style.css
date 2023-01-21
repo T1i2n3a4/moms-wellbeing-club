@@ -17,4 +17,31 @@ body {
 
 /* Logo and navigation bar */
 
+h1 {
+    letter-spacing: 4px;
+}
+h1 a {
+    text-decoration: none;
+}
+.logo-menu {
+    display: flex;
+    justify-content: space-between;
+}
 
+.menu {
+    display: flex;
+    
+    
+}
+.menu li{
+   list-style-type: none;
+   padding: 0 30px;
+   letter-spacing: 3px;
+   
+    
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000;
+}

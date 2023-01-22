@@ -169,3 +169,14 @@ aside {
     margin: 0 30px 30px 30px;
     padding: 0 30px 30px 30px;
 }
+
+/* Map */
+.map {
+    width: 60%;
+    line-height: 150px;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}

@@ -113,11 +113,38 @@ aside {
 }
 
 .activity-type {
-display: flex;
-flex-direction: row-reverse;
-justify-content: center;
-align-items: center;
-background-color:#868c4e;
-height: max-content;
-margin-bottom: 30px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    background-color:#868c4e;
+    height: max-content;
+    margin-bottom: 30px;
+}
+
+.schedule {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+    margin: 10px 5px; }
+
+
+.image:hover {
+    transform: scale(1.1); 
+}  
+
+.description {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 60%;
+    margin: 10px 5px;
+    padding: 0 30px;
+    text-align: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
 }

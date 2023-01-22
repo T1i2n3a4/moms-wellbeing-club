@@ -122,6 +122,7 @@ aside {
     margin-bottom: 30px;
 }
 
+    /* SChedule  */
 .schedule {
     display: flex;
     flex-direction: column;
@@ -130,10 +131,12 @@ aside {
     width: 30%;
     margin: 10px 5px; }
 
+    /* Image zoom effect */
 .image:hover {
     transform: scale(1.1); 
 }  
 
+    /* Activity description */
 .description {
     display: flex;
     align-content: center;
@@ -160,6 +163,7 @@ aside {
     margin: 0 30px 30px;
 }
 
+    /* Contact-us details */
 .contact-us-details h3 {
     padding-bottom: 20px;
 }
@@ -170,7 +174,7 @@ aside {
     padding: 0 30px 30px 30px;
 }
 
-/* Map */
+    /* Map */
 .map {
     width: 60%;
     line-height: 150px;

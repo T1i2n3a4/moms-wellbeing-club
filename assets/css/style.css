@@ -50,6 +50,8 @@ h1 a {
     color: #000;
 }
 
+ /* About-us page */
+
 .about-us {
     display: flex;
     justify-content: space-between;
@@ -95,4 +97,27 @@ aside {
     line-height: 30px;
     border-radius: 30px 0 0 30px;
     background-color: rgb(179, 128, 226);
+}
+
+/* Activities page */
+
+.activities {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.activities h2 {
+    text-align: center;
+    margin: 30px;
+}
+
+.activity-type {
+display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+align-items: center;
+background-color:#868c4e;
+height: max-content;
+margin-bottom: 30px;
 }

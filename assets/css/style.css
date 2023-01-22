@@ -130,7 +130,6 @@ aside {
     width: 30%;
     margin: 10px 5px; }
 
-
 .image:hover {
     transform: scale(1.1); 
 }  
@@ -147,4 +146,26 @@ aside {
 
 .uppercase {
     text-transform: uppercase;
+}
+
+/* Contact-us page */
+
+#contact-us-heading {
+    margin: 30px;
+    text-align: center;
+}
+
+.contact-us-box {
+    display: flex;
+    margin: 0 30px 30px;
+}
+
+.contact-us-details h3 {
+    padding-bottom: 20px;
+}
+
+.contact-us-details {
+    width: 30%;
+    margin: 0 30px 30px 30px;
+    padding: 0 30px 30px 30px;
 }

@@ -9,6 +9,7 @@
 h1, h2, h3, h4 {
     font-family: Quando, Helvetica, sans-serif;
     letter-spacing: 4px;
+    text-transform: uppercase;
     
 }
 
@@ -22,8 +23,8 @@ body {
 h1 {
     margin-bottom: 30px;
     letter-spacing: 4px;
-    font-size: 250%;
-    text-transform: uppercase;
+    font-size: 200%;
+    
 }
 h1 a {
     text-decoration: none;
@@ -58,6 +59,8 @@ h1 a {
 .about-us {
     display: flex;
     justify-content: space-between;
+    background: url(../images/lady-in-lavender-field.jpg);
+    background-size: cover;
 }
 .ethos h2 {
     text-align: center;

@@ -263,3 +263,12 @@ footer {
     padding: 30px;
     font-size: xx-large;
 }
+
+/* Gallery */
+#photos {
+    column-count: 3;
+    column-gap: 5px;
+}
+#photos > img {
+    width: 100%;
+}

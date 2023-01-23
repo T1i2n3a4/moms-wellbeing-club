@@ -20,6 +20,14 @@ body {
 
 /* Logo and navigation bar */
 
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
 h1 {
     margin-bottom: 30px;
     letter-spacing: 4px;
@@ -37,6 +45,15 @@ h1 a {
 .logo-menu {
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    z-index: 3;
+    
+    
+    
 }
 
 .menu {
@@ -59,6 +76,9 @@ h1 a {
     color: #000;
 }
 
+main {
+    margin-top: 50px;
+}
  /* About-us page */
 
 .about-us {
@@ -66,6 +86,8 @@ h1 a {
     justify-content: space-between;
     background: url(../images/lady-in-lavender-field.jpg);
     background-size: cover;
+    /* position: relative;
+    top: 50px; */
 }
 .ethos h2 {
     text-align: center;
@@ -76,6 +98,7 @@ h1 a {
     border-radius: 0 30px 30px 0;
     background-color: #9d84bf;
     opacity: 0.85;
+    
 }
 .ethos li {
     display: flex;
@@ -120,6 +143,7 @@ aside {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding-top: 50px;
 }
 
 .activities h2 {
@@ -172,16 +196,19 @@ aside {
 }
 
 /* Contact-us page */
+#contact-us-page {
+    padding-top: 50px;
+}
 
 #contact-us-heading {
-    margin: 30px;
+    margin: 0 30px;
     text-align: center;
 }
 
 .contact-us-box {
     display: flex;
-    margin: 0 30px 30px;
-}
+    margin: 30px;
+    }
 
     /* Contact-us details */
 .contact-us-details h3 {
@@ -213,7 +240,7 @@ footer {
     position: fixed;
     bottom: 0;
     right: 0;
-    height: 100px;
+    height: 50px;
 }
 .footer-box {
     display: flex;

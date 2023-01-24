@@ -275,6 +275,9 @@ footer {
 
 /* Sign-up page */
 .sign-up-page {
+    background: url(../images/lady-in-lavender-field.jpg);
+    background-size: cover;
+    height: 100%;
 
 }
 
@@ -286,5 +289,47 @@ h2 {
 .fieldsets {
     display: flex;
     justify-content: space-around;
+    margin-top: 100px;
     padding:50px;
+    
+}
+
+#fieldset1, #fieldset2 {
+    width: 30%;
+    background-color: #9d84bf;
+    opacity: 0.7;
+}
+
+legend {
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 2px;
+    background-color:#6c5488;
+}
+.text-input {
+    background: white;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 15%;
+    width: 70%;
+    height: 25px;
+    border: 1px solid #6c5488;
+    border-radius: 5px;
+}
+ #fieldset1 label {
+    margin-left: 15%;
+ }
+
+ .checkbox {
+    margin-bottom: 30px;
+    margin-left: 15%;
+ }
+
+ .center-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+ }
+.join-button {
+    text-align: center;
 }

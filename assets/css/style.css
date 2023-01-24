@@ -274,8 +274,17 @@ footer {
 }
 
 /* Sign-up page */
+.sign-up-page {
+
+}
 
 h2 {
     padding-top: 100px;
     text-align: center;
+}
+
+.fieldsets {
+    display: flex;
+    justify-content: space-around;
+    padding:50px;
 }

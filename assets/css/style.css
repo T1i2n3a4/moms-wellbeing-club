@@ -272,3 +272,10 @@ footer {
 #photos > img {
     width: 100%;
 }
+
+/* Sign-up page */
+
+h2 {
+    padding-top: 100px;
+    text-align: center;
+}

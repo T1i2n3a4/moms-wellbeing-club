@@ -328,8 +328,19 @@ legend {
  .center-button {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
  }
 .join-button {
+    margin: 30px;
+    padding: 20px 30px;
+    font-size: x-large;
+    text-transform: uppercase;
     text-align: center;
+    background-color: #84a14f;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 100%;
+}
+.join-button:hover {
+    background-color: #fff;
+    color: #84a14f;
 }

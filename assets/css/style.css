@@ -269,6 +269,7 @@ footer {
 }
 #photos > img {
     width: 100%;
+    
 }
 
 /* Sign-up page */
@@ -364,8 +365,7 @@ legend {
     .logo-nav {
         display: flex;
         flex-direction: column-reverse;
-        justify-content: space-between;
-        
+        justify-content: space-between; 
 }
 }
 @media screen and(max-width: 945px) {

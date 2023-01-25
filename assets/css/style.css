@@ -50,7 +50,7 @@ h1 a {
     width: 100%;
     height: 50px;
     background-color: #fff;
-    z-index: 3;
+   
     
     
     
@@ -63,8 +63,8 @@ h1 a {
 }
 .menu li{
    list-style-type: none;
-   padding: 0 20px;
-   letter-spacing: 3px; 
+   padding: 0 15px;
+   
 }
 
 .menu li:hover {
@@ -143,17 +143,18 @@ aside {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding-top: 50px;
+    
 }
 
 .activities h2 {
     text-align: center;
-    margin: 30px;
+    margin: 100px 0 50px;
 }
 
 .activity-type {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
+    /* flex-direction: row-reverse; */
     justify-content: center;
     align-items: center;
     background-color:#89a35c;
@@ -196,12 +197,9 @@ aside {
 }
 
 /* Contact-us page */
-#contact-us-page {
-    padding-top: 50px;
-}
 
 #contact-us-heading {
-    margin: 0 30px;
+    margin: 50px 0;
     text-align: center;
 }
 
@@ -275,15 +273,23 @@ footer {
 
 /* Sign-up page */
 .sign-up-page {
+    position: relative;
+    top: 20px;
+    right: 0;
+    left: 0;
+    bottom: 0px;
     background: url(../images/lady-in-lavender-field.jpg);
     background-size: cover;
-    height: 100%;
+    
 
 }
 
-h2 {
+.sign-up-page h2 {
     padding-top: 100px;
+    margin: 30px;
     text-align: center;
+    color: #fff;
+    
 }
 
 .fieldsets {
@@ -297,7 +303,8 @@ h2 {
 #fieldset1, #fieldset2 {
     width: 30%;
     background-color: #9d84bf;
-    opacity: 0.7;
+    /* opacity: 0.7; */
+    
 }
 
 legend {
@@ -305,6 +312,8 @@ legend {
     font-size: 25px;
     letter-spacing: 2px;
     background-color:#6c5488;
+    color: #000;
+    
 }
 .text-input {
     background: white;
@@ -313,8 +322,11 @@ legend {
     margin-left: 15%;
     width: 70%;
     height: 25px;
-    border: 1px solid #6c5488;
+    border: 3px solid #6c5488;
     border-radius: 5px;
+}
+.text-input:hover {
+    transform: scale(1.05);
 }
  #fieldset1 label {
     margin-left: 15%;
@@ -328,6 +340,7 @@ legend {
  .center-button {
     display: flex;
     justify-content: center;
+    
  }
 .join-button {
     margin: 30px;
@@ -335,12 +348,35 @@ legend {
     font-size: x-large;
     text-transform: uppercase;
     text-align: center;
-    background-color: #84a14f;
+    background-color: green;
     color: #fff;
     border-radius: 10px;
     font-size: 100%;
 }
 .join-button:hover {
     background-color: #fff;
-    color: #84a14f;
+    color: green;
+}
+
+
+@media screen and(max-width: 1160px) {
+
+    .logo-nav {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        
+}
+}
+@media screen and(max-width: 945px) {
+    .activity-type {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+.activity-right-side {
+    display: flex;
+    flex-direction: row-reverse;
 }

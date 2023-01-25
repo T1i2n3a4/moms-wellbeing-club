@@ -360,6 +360,7 @@ legend {
     color: green;
 }
 
+/* Logo and menu bar for max width 1200px */
 
 @media screen and (max-width: 1200px) {
 
@@ -382,6 +383,29 @@ legend {
         position: relative;
         top: 60px;}
 }
+
+
+/* Logo and menu bar for max width 680px */
+@media screen and (max-width: 680px) {
+    
+    h1 {
+        font-size: 150%;
+    }
+    .logo-menu {
+        height: 50px;
+        padding-bottom: 15px;
+    }
+}
+
+/* Logo and menu bar for max width 320px */
+@media screen and (max-width: 320px) {
+    .menu li {
+        list-style-type: none;
+        padding: 0 8px;
+    }
+}
+
+/* Logo and menu bar for max width 945px */
 @media screen and(max-width: 945px) {
     .activity-type {
         display: flex;

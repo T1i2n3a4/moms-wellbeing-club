@@ -155,13 +155,16 @@ aside {
 
 .activity-type {
     display: flex;
-    flex-direction: column;
     flex-direction: row-reverse;
     justify-content: center;
     align-items: center;
     background-color:#89a35c;
     height: max-content;
     margin-bottom: 30px;
+}
+.activity-right-side {
+    display: flex;
+    flex-direction: row-reverse;
 }
 
     /* SChedule  */
@@ -396,6 +399,52 @@ legend {
         height: 50px;
         padding-bottom: 15px;
     }
+
+/* About-us page for max width 680px */
+    .about-us {
+        flex-direction: column-reverse;
+        font-size: 75%;
+        
+    }
+    .about-us-right-side {
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
+    }
+    aside {
+        /* width: 100%; */
+        margin-top: 30px;
+        padding: 15px;
+    }
+    
+    .quote {
+        margin-top: 30px;
+        align-self: center;
+        text-align: center;
+    }
+
+    .ethos li {
+        margin: 10px 15px;
+        padding: 10px;
+    }
+
+/* Activities page for max width 680px */
+
+    .activity-type {
+        display: flex;
+        flex-direction: column;
+    }
+    .activities-right-side {
+        display:flex
+    }
+
+    .schedule {
+        width: 50%;
+    }
+    .description {
+        width: 100%;
+    }
+
 }
 
 /* Logo and menu bar for max width 550px */
@@ -424,45 +473,17 @@ legend {
 
 }
 
-/* About-us page for max width 680px */
-@media screen and (max-width: 680px) {
-    .about-us {
-        flex-direction: column-reverse;
-        font-size: 75%;
-        
-    }
-    .about-us-right-side {
-        flex-direction: column;
-        width: 100%;
-        margin-left: 0;
-    }
-    aside {
-        width: 100%;
-        margin-top: 30px;
-    }
-    
-    .quote {
-        margin-top: 30px;
-        align-self: center;
-        text-align: center;
-    }
 
-    .ethos li {
-        margin: 10px 15px;
-        padding: 10px;
-    }
-}
+
 
 /* Activity page for max width 945px */
-@media screen and(max-width: 945px) {
+@media screen and (max-width: 945px) {
     .activity-type {
-        display: flex;
-        flex-direction: column;
+        font-size: 80%;
     }
 
+    .image {
+        width: 80%;
+        height: 80%;
 }
-
-/* .activity-right-side {
-    display: flex;
-    flex-direction: row-reverse;
-} */
+}

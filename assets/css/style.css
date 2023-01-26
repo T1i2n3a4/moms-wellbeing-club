@@ -398,6 +398,17 @@ legend {
     }
 }
 
+/* Logo and menu bar for max width 550px */
+@media screen and (max-width: 550px) {
+    .logo-menu {
+        padding-bottom: 5px;
+        font-size: 75%;
+}
+    .menu li {
+        padding: 0 5px;
+}
+}
+
 /* Logo and menu bar for max width 320px */
 @media screen and (max-width: 320px) {
     .menu li {

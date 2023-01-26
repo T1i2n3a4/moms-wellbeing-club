@@ -401,16 +401,44 @@ legend {
 /* Logo and menu bar for max width 320px */
 @media screen and (max-width: 320px) {
     .menu li {
-        list-style-type: none;
         padding: 0 8px;
     }
 }
 
+/* About-us page for max width 850px */
+@media screen and (max-width: 850px) {
+    .about-us {
+        font-size: 85%;
+    }
 
-/* About-us page bar for max width 680px */
+}
+
+/* About-us page for max width 680px */
 @media screen and (max-width: 680px) {
-    .about-us {font-size: 70%;
+    .about-us {
+        flex-direction: column-reverse;
+        font-size: 75%;
+        
+    }
+    .about-us-right-side {
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
+    }
+    aside {
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+    .quote {
+        margin-top: 30px;
+        align-self: center;
+        text-align: center;
+    }
 
+    .ethos li {
+        margin: 10px 15px;
+        padding: 10px;
     }
 }
 

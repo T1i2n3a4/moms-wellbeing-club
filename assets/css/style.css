@@ -393,6 +393,25 @@ legend {
         top: 60px;}
 }
 
+/*  max width 1060px */
+
+@media screen and (max-width: 1060px) {
+
+    /* Activities page for max width 1060px*/
+
+    .activities {
+        font-size: 80%;
+        
+    }
+    .activity-type {
+        margin-bottom: 10px;
+    }
+    .image {
+        width: 80%;
+        height: 80%;
+    }
+}
+
 
 /* Logo and menu bar for max width 680px */
 @media screen and (max-width: 680px) {

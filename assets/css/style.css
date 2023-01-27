@@ -77,6 +77,11 @@ h1 a {
     color: #000;
 }
 
+.active {
+    border-bottom: 1px solid #000;
+
+}
+
 main {
     margin-top: 50px;
 }
@@ -292,7 +297,7 @@ footer {
     right: 0;
     left: 0;
     bottom: 0px;
-    background: url(../images/lady-in-lavender-field.jpg);
+    background: url(../images/lady-in-lavender-field.webp);
     background-size: cover;
     
 
@@ -552,6 +557,10 @@ legend {
     }
 
     /* Activities max width 480px*/
+    .activities h2 {
+        font-size: 20px;
+    }
+
    .activities .image {
         width: 135px;
         height: 90px;
@@ -560,7 +569,8 @@ legend {
     /* Contact us page for max width 480px */
 
     #contact-us-heading {
-        margin: 45px 0 20px
+        margin: 45px 0 20px;
+        font-size: 20px;
     }
 
     .contact-us-box {
@@ -585,7 +595,7 @@ legend {
         width: 100%;
         line-height: 0;
     }
-    
+
 /* Footer max width 480px */
 .social-networks a {
     padding: 20px;

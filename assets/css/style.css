@@ -21,7 +21,7 @@ body {
 /* Logo and navigation bar */
 
 header {
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
@@ -248,7 +248,7 @@ iframe {
 footer {
     background: #d9d2d5;
     width: 100%;
-    position: fixed;
+    position: sticky;
     bottom: 0;
     right: 0;
     height: 50px;
@@ -438,8 +438,9 @@ legend {
         font-size: 150%;
     }
     .logo-menu {
-        height: 50px;
-        padding-bottom: 15px;
+        
+            height: 45px;
+            padding-bottom: 5px;
     }
 
 /* About-us page for max width 680px */

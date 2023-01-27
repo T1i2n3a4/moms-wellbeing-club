@@ -507,23 +507,12 @@ legend {
 
 }
 
-/* Logo and menu bar for max width 550px */
-/* @media screen and (max-width: 550px) {
-    .logo-menu {
-        padding-bottom: 5px;
-        font-size: 75%;
-}
-    .menu li {
-        padding: 0 5px;
-}
-} */
-
 
 /* max width 480px */
 
-/* Logo and menu bar for max width 480px */
 @media screen and (max-width: 480px) {
 
+    /* Logo and menu bar for max width 480px */
     h1 {
         letter-spacing: 0;
         font-size: 20px;
@@ -535,6 +524,13 @@ legend {
 
     .menu li {
         padding: 0 5px;
+    }
+
+    /* About us page for max width 480px */
+
+    .quote {
+        margin-top: 10px;
+        font-size: 110%;
     }
 
     /* Activities max width 480px*/

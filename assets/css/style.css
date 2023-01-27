@@ -520,9 +520,16 @@ legend {
 
 /* max width 480px */
 @media screen and (max-width: 480px) {
+
+    /* Activities max width 480px*/
    .activities .image {
         width: 135px;
         height: 90px;
+}
+/* Footer max width 480px */
+.social-networks a {
+    padding: 20px;
+    font-size: 20px;
 }
 }
 

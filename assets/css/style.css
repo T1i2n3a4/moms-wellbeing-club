@@ -85,7 +85,7 @@ main {
 .about-us {
     display: flex;
     justify-content: space-between;
-    background: url(../images/lady-in-lavender-field.jpg);
+    background: url(../images/lady-in-lavender-field.webp);
     background-size: cover;
     /* position: relative;
     top: 50px; */
@@ -499,6 +499,11 @@ legend {
         width: 100%;
     }
 
+    /* footer for max width 680px */
+    .hidden-on-mobile {
+        display: none;
+    }
+
 }
 
 /* Logo and menu bar for max width 550px */
@@ -509,6 +514,15 @@ legend {
 }
     .menu li {
         padding: 0 5px;
+}
+}
+
+
+/* max width 480px */
+@media screen and (max-width: 480px) {
+   .activities .image {
+        width: 135px;
+        height: 90px;
 }
 }
 

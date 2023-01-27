@@ -508,7 +508,7 @@ legend {
 }
 
 /* Logo and menu bar for max width 550px */
-@media screen and (max-width: 550px) {
+/* @media screen and (max-width: 550px) {
     .logo-menu {
         padding-bottom: 5px;
         font-size: 75%;
@@ -516,11 +516,26 @@ legend {
     .menu li {
         padding: 0 5px;
 }
-}
+} */
 
 
 /* max width 480px */
+
+/* Logo and menu bar for max width 480px */
 @media screen and (max-width: 480px) {
+
+    h1 {
+        letter-spacing: 0;
+        font-size: 20px;
+    }
+
+    .logo-menu {
+        font-size: 13px;
+    }
+
+    .menu li {
+        padding: 0 5px;
+    }
 
     /* Activities max width 480px*/
    .activities .image {

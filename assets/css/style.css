@@ -513,6 +513,10 @@ legend {
 @media screen and (max-width: 480px) {
 
     /* Logo and menu bar for max width 480px */
+
+    body {
+        font-size: 16px;
+    }
     h1 {
         letter-spacing: 0;
         font-size: 20px;
@@ -535,6 +539,16 @@ legend {
 
     aside {
         line-height: normal;
+    }
+
+    .ethos h2 {
+        padding: 10px;
+        letter-spacing: 0;
+        font-size: 100%;
+    }
+
+    .ethos {
+        margin-top: 20px;
     }
 
     /* Activities max width 480px*/

@@ -419,10 +419,12 @@ legend {
         margin-bottom: 10px;
     }
     .image {
-        width: 80%;
-        height: 80%;
+        width: 100%;
+        height: auto;
     }
 
+
+    /* Contact us page for max width 1060px*/
     #contact-us-page {
         font-size: 80%;
     }
@@ -469,6 +471,11 @@ legend {
     }
 
 /* Activities page for max width 680px */
+    
+    .activities {
+        font-size: 100%;
+    }
+
     .activities h2 {
         margin-bottom: 20px;
         margin-top: 50px;
@@ -483,6 +490,10 @@ legend {
 
     .schedule {
         width: 50%;
+    }
+    .image {
+        width: 100%;
+        height: auto;
     }
     .description {
         width: 100%;
@@ -526,7 +537,7 @@ legend {
     }
 
     .image {
-        width: 80%;
-        height: 80%;
+        width: 100%;
+        height: auto;
 }
 }

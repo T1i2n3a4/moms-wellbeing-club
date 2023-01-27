@@ -533,6 +533,10 @@ legend {
         font-size: 110%;
     }
 
+    aside {
+        line-height: normal;
+    }
+
     /* Activities max width 480px*/
    .activities .image {
         width: 135px;

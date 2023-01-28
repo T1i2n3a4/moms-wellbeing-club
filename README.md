@@ -68,3 +68,33 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * Pictures filter to be added to gallery page, to sort them by activity type.
 * A sign-up form for mothers who would like to become volunteers by introducing and organising new activities.
 
+## Design
+
+### Wireframes
+
+### Color scheme
+
+## Technologies
+
+* HTML
+    * The website's structure was developed using HTML as the main language.
+* CSS
+    * The website was style using CSS.
+* GitHub
+    * GitHub hosts the source code which is deployed using Git Pages.
+* Git
+    * Commit and pushing code using Git while creating the website.
+* Font Awesome 
+    * The icons used as Social Media links on the Footer were obtained from Font Awesome website.
+* Google Fonts
+    * Used to select font families for website's body and headings.
+* Tinypng 
+    * Used to reduce the pictures embeded on the website.
+* Paint app 
+    * Used to tailor the pictures embede on the website.
+* Adobe Color
+    * Used to extract the color scheme from the background picture.
+* Balsamiq
+    * Used to create the wireframes for descktop, tablet and mobile.
+
+

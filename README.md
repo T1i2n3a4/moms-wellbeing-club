@@ -57,5 +57,11 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ### Footer
 
+* The footer includes icons and links to social media networks.
+* It is fixed positioned to ensure an easy and immediat access to the social networks.
+* The text: FIND US ON is hidden for smaller viewports to make the footer responsive.
+
+![Footer]()
+
 
 

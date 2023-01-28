@@ -450,6 +450,57 @@ legend {
     }
 }
 
+/* Activity page for max width 945px */
+@media screen and (max-width: 945px) {
+    .activity-type {
+        font-size: 80%;
+    }
+
+    .image {
+        width: 100%;
+        height: auto;
+}
+    /* Sign up page for max width 945px */
+
+    .sign-up-page h2 {
+        font-size: 110%;
+    }
+
+    .fieldsets {
+        display: flex;
+        flex-direction: column;
+        margin-top: 0;
+        padding: 50px 0 0;
+    }
+
+    #fieldset1 {
+      
+        align-self: center;
+        margin: 0 0 30px;
+        width: 70%;
+    }
+    #fieldset2 {
+        align-self: center;
+        width: 70%;
+    }
+
+
+    .text-input {
+        margin-bottom: 15px;
+    }
+
+    .checkbox {
+        margin-bottom: 15px;
+}
+}
+
+/* About-us page for max width 850px */
+@media screen and (max-width: 850px) {
+    .about-us {
+        font-size: 85%;
+    }
+}
+
 
 /* Logo and menu bar for max width 680px */
 @media screen and (max-width: 680px) {
@@ -523,6 +574,16 @@ legend {
     /* footer for max width 680px */
     .hidden-on-mobile {
         display: none;
+    }
+
+    /* Sign up page for max width 680px */
+
+    .fieldsets #fieldset1 {
+        width: 95%;
+    }
+    .sign-up-page h2 {
+        font-size: 20px;
+        padding-top: 70px;
     }
 
 }
@@ -616,6 +677,15 @@ legend {
     padding: 20px;
     font-size: 20px;
 }
+
+/* Sign up page for max width 480px */
+
+.sign-up-page h2 {
+    font-size: 100%;
+}
+#fieldset1 {
+    width: 95%;
+}
 }
 
 /* Logo and menu bar for max width 320px */
@@ -625,57 +695,5 @@ legend {
     }
 }
 
-/* About-us page for max width 850px */
-@media screen and (max-width: 850px) {
-    .about-us {
-        font-size: 85%;
-    }
-
-}
 
 
-
-
-/* Activity page for max width 945px */
-@media screen and (max-width: 945px) {
-    .activity-type {
-        font-size: 80%;
-    }
-
-    .image {
-        width: 100%;
-        height: auto;
-}
-    /* Sign up page for max width 945px */
-
-    .sign-up-page h2 {
-        font-size: 110%;
-    }
-
-    .fieldsets {
-        display: flex;
-        flex-direction: column;
-        margin-top: 0;
-        padding: 50px 0 0;
-    }
-
-    #fieldset1 {
-      
-        align-self: center;
-        margin: 0 0 30px;
-        width: 70%;
-    }
-    #fieldset2 {
-        align-self: center;
-        width: 70%;
-    }
-
-
-    .text-input {
-        margin-bottom: 15px;
-    }
-
-    .checkbox {
-        margin-bottom: 15px;
-}
-}

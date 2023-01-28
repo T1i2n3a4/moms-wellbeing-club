@@ -396,9 +396,24 @@ legend {
         margin-top: 50px;
     }
 
-    .sign-up-page {
+    /* .sign-up-page {
         position: relative;
-        top: 60px;}
+        top: 60px;} */
+
+        /* Sign up page ofr max width 1200px */
+
+        .sign-up-page {
+            position: static;
+        }
+
+        #fieldset1, #fieldset2 {
+            width: 48%;
+        }
+
+        .sign-up-page h2 {
+            margin: 0;
+            letter-spacing: 0;
+}
 }
 
 /*  max width 1060px */
@@ -630,5 +645,37 @@ legend {
     .image {
         width: 100%;
         height: auto;
+}
+    /* Sign up page for max width 945px */
+
+    .sign-up-page h2 {
+        font-size: 110%;
+    }
+
+    .fieldsets {
+        display: flex;
+        flex-direction: column;
+        margin-top: 0;
+        padding: 50px 0 0;
+    }
+
+    #fieldset1 {
+      
+        align-self: center;
+        margin: 0 0 30px;
+        width: 70%;
+    }
+    #fieldset2 {
+        align-self: center;
+        width: 70%;
+    }
+
+
+    .text-input {
+        margin-bottom: 15px;
+    }
+
+    .checkbox {
+        margin-bottom: 15px;
 }
 }

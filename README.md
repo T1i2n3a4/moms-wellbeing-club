@@ -8,16 +8,35 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ## Features
 
+### Header
+
 * The header contains website’s Logo and the Navigation Menu, with links to the About-us Activities, Gallery, Contact us and Sign up pages, which are responsive on all devices.
 * The Header has fixed position to allow users to easily access different pages within the site on any size device.
 * The links to pages have zoom effect when being mouse hovered and the link to the active page is underlined to show the user which page he accessed at that moment.
 
-### Header
+![Navigation Menu]()
 
 ### About-us 
 
-* Activities
-* Contact-us 
+* About-us page contains the landing a quote, the club’s ethos and an aside information about the purpose of the club and it’s foundation, all of them being responsive for any device screen.
+
+![About-us]()
+
+* It also contains the Activities section, which can be accessed as a separate page from the navigation menu.
+* The activities page contains 5 sections, one for each activity type. Each section is consists of:
+    * Activity description;
+    * A picture for that activity;
+    * Activity schedule.
+
+![Activities]()
+
+* Contact-us page is also a part of the About us page, however it can be accessed from the navigation bar.
+* Contact us page comprises:
+    * The address;
+    * Get in touch information (phone and email);
+    * A map.
+
+![Contact-us]()
 
 ### Gallery
 

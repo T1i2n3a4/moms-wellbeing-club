@@ -63,5 +63,8 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ![Footer]()
 
+### Features left to implement
 
+* Pictures filter to be added to gallery page, to sort them by activity type.
+* A sign-up form for mothers who would like to become volunteers by introducing and organising new activities.
 

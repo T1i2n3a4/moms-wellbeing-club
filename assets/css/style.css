@@ -5,6 +5,9 @@
     padding: 0;
     border: none;
 }
+html {
+    height: 100%;
+}
 
 h1, h2, h3, h4 {
     font-family: Quando, Helvetica, sans-serif;
@@ -16,6 +19,7 @@ h1, h2, h3, h4 {
 body {
     font-family: Judson, Helvetica, sans-serif;
     font-size: 20px;
+    min-height: 100%;
 }
 
 /* Logo and navigation bar */
@@ -282,7 +286,7 @@ footer {
 
 /* Gallery */
 #photos {
-    column-count: 3;
+    column-count: 4;
     column-gap: 5px;
 }
 #photos > img {
@@ -492,6 +496,11 @@ legend {
     .checkbox {
         margin-bottom: 15px;
 }
+    /* Gallery page for max width 945px */
+
+#photos {
+    column-count: 3;
+
 }
 
 /* About-us page for max width 850px */
@@ -541,6 +550,7 @@ legend {
         margin: 10px 15px;
         padding: 10px;
     }
+}
 
 /* Activities page for max width 680px */
     
@@ -681,10 +691,41 @@ legend {
 /* Sign up page for max width 480px */
 
 .sign-up-page h2 {
-    font-size: 100%;
+    font-size: 16px;
+}
+
+.fieldsets {
+    padding: 20px 0 0;
+}
+
+legend {
+    font-size: 18px;
+    letter-spacing: normal;
 }
 #fieldset1 {
+   
+    margin: 0 5px 15px;
+}
+
+#fieldset2 {
     width: 95%;
+}
+
+.text-input {
+    /* width: 95%; */
+    margin-bottom: 5px;
+}
+
+.join-button {
+    margin: 15px;
+    padding: 10px 20px
+}
+
+/* Gallery page for max width 480px */
+
+#photos {
+    column-count: 2;
+
 }
 }
 
@@ -693,6 +734,13 @@ legend {
     .menu li {
         padding: 0 8px;
     }
+
+    /* Gallery page for max width 320px */
+
+#photos {
+    column-count: 1;
+
+}
 }
 
 

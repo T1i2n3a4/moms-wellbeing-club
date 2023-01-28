@@ -18,29 +18,42 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ### About-us 
 
-* About-us page contains the landing a quote, the club’s ethos and an aside information about the purpose of the club and it’s foundation, all of them being responsive for any device screen.
+* About-us page contains a quote, the club’s ethos and an aside information about the purpose of the club and it’s foundation, all of them on a background picture. The page is responsive for any device screen.
 
 ![About-us]()
 
-* It also contains the Activities section, which can be accessed as a separate page from the navigation menu.
-* The activities page contains 5 sections, one for each activity type. Each section is consists of:
+* It also contains the Activities section, which can be accessed as a separate page from the navigation menu. The activities page contains 5 sections, one for each activity type. Each section is consists of:
     * Activity description;
     * A picture for that activity;
     * Activity schedule.
 
 ![Activities]()
 
-* Contact-us page is also a part of the About us page, however it can be accessed from the navigation bar.
-* Contact us page comprises:
+* Contact-us page is also a part of the About us page, however it can be accessed from the navigation bar. Contact us page comprises:
     * The address;
     * Get in touch information (phone and email);
     * A map.
 
 ![Contact-us]()
 
-### Gallery
+### Gallery page
+
+* The gallery provides the users with photos from the club's activities.
+* The page is fully responsive on all devices.
+
+![Gallery]()
 
 ### Sign-up
+
+* Sign-up page consists of a thank you heading and the suggestion to join the club.
+* A submission form comprising 2 fieldsets and a submission button is also included on the page, all of them being fully responsive on any devices. 
+* The first fieldset requires personal information as:
+    * First name
+    * Last name
+    * Email address
+* The second fieldset offers the users the possibility to check one or more activities to join.
+
+![Sign-up page]()
 
 ### Footer
 

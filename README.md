@@ -72,6 +72,31 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ### Wireframes
 
+* Website's wireframe was created in Balsamiq.
+* Desktop and Mobile versions are presented below.
+
+    * About us page
+
+    ![About-us wireframe](docs/readme-images/about-us-wireframe.png)
+
+    * Activities section
+
+    ![Activities section wireframe](docs/readme-images/activities-wireframe.png)
+
+    * Contact-us section
+
+    ![Contact-us section wireframe](docs/readme-images/contact-us-wireframe.png)
+
+    * Gallery page
+
+    ![Gallery page wireframe](docs/readme-images/gallery-wireframe.png)
+
+    * Sign-up page
+    
+    ![Sign-up page wireframe](docs/readme-images/sign-up-wireframe.png)
+
+
+
 ### Color scheme
 
 ## Technologies

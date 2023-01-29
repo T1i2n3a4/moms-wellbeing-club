@@ -336,7 +336,7 @@ legend {
     font-size: 25px;
     letter-spacing: 2px;
     background-color:#6c5488;
-    color: #000;
+    color: #fff;
     
 }
 .text-input {
@@ -399,17 +399,9 @@ legend {
         height: 70px;
         padding-bottom: 5px;
 }
-    .ethos {
-        margin-top: 50px;
-    }
-
-    
+        
 
         /* Sign up page for max width 1200px */
-
-        .sign-up-page {
-            position: static;
-        }
 
         #fieldset1, #fieldset2 {
             width: 48%;
@@ -425,51 +417,26 @@ legend {
 
 @media screen and (max-width: 1060px) {
 
-    /* Logo and menu bar for max width 1060px */
-    .logo-menu {
-        /* font-size: 80%; */
-        height: max-content;
-    }
-
     /* Activities page for max width 1060px*/
 
     .activities h2 {
         margin: 60px 0 50px;
     }
-    /* .activities {
-        font-size: 80%; */
-        
-    /* } */
+    
     .activity-type {
         margin-bottom: 10px;
     }
+
     .image {
         width: 100%;
         height: auto;
     }
-
-
-    /* Contact us page for max width 1060px*/
-    /* #contact-us-page {
-        font-size: 80%;
-    } */
 }
 
-/* Activity page for max width 945px */
+
 @media screen and (max-width: 945px) {
-    /* .activity-type {
-        font-size: 80%;
-    } */
 
-    .image {
-        width: 100%;
-        height: auto;
-}
     /* Sign up page for max width 945px */
-
-    /* .sign-up-page h2 {
-        font-size: 110%; */
-    /* } */
 
     .fieldsets {
         display: flex;
@@ -489,7 +456,6 @@ legend {
         width: 70%;
     }
 
-
     .text-input {
         margin-bottom: 15px;
     }
@@ -505,61 +471,22 @@ legend {
 }
 }
 
-/* About-us page for max width 850px */
-/* @media screen and (max-width: 850px) {
-    .about-us {
-        font-size: 85%;
+
+@media screen and (max-width: 820px) {
+
+     body {
+        font-size: 18px;
     }
-} */
 
-
-/* Logo and menu bar for max width 680px */
-@media screen and (max-width: 680px) {
+    /* Logo and menu bar for max width 820px */
     
-    /* h1 {
-        font-size: 150%;
-    } */
     .logo-menu {
         
-            height: 45px;
-            padding-bottom: 5px;
+        height: 65px;
     }
 
-/* About-us page for max width 680px */
-    .about-us {
-        flex-direction: column-reverse;
-        /* font-size: 75%; */
-        
-    }
-    .about-us-right-side {
-        flex-direction: column;
-        width: 100%;
-        margin-left: 0;
-    }
-    aside {
-        /* width: 100%; */
-        margin-top: 30px;
-        padding: 15px;
-    }
+    /* Activities page for max width 820px */
     
-    .quote {
-        margin-top: 30px;
-        align-self: center;
-        text-align: center;
-    }
-
-    .ethos li {
-        margin: 10px 15px;
-        padding: 10px;
-    }
-
-
-/* Activities page for max width 680px */
-    
-    /* .activities {
-        font-size: 100%;
-    } */
-
     .activities h2 {
         margin-bottom: 20px;
         margin-top: 50px;
@@ -582,6 +509,45 @@ legend {
     .description {
         width: 100%;
     }
+
+}
+    @media screen and (max-width: 680px) {
+
+        /* Logo and menu bar for max width 680px */
+    
+    h1 {
+        font-size: 155%;
+        letter-spacing: 0;
+    }
+
+/* About-us page for max width 680px */
+    .about-us {
+        flex-direction: column-reverse;
+                
+    }
+    .about-us-right-side {
+        flex-direction: column;
+        width: 100%;
+        margin-left: 0;
+    }
+    aside {
+        
+        margin-top: 30px;
+        padding: 15px;
+    }
+    
+    .quote {
+        margin-top: 30px;
+        align-self: center;
+        text-align: center;
+    }
+
+    .ethos li {
+        margin: 10px 15px;
+        padding: 10px;
+    }
+
+
 
     /* footer for max width 680px */
     .footer-box span {
@@ -608,15 +574,13 @@ legend {
 
     /* Logo and menu bar for max width 480px */
 
-    body {
-        font-size: 18px;
-    }
     h1 {
         letter-spacing: 0;
         font-size: 20px;
     }
 
     .logo-menu {
+        height: 50px;
         font-size: 13px;
     }
 

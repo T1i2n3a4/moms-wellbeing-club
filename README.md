@@ -14,34 +14,34 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * The Header has fixed position to allow users to easily access different pages within the site on any size device.
 * The links to pages have zoom effect when being mouse hovered and the link to the active page is underlined to show the user which page he accessed at that moment.
 
-![Navigation Menu]()
+![Navigation Menu](docs/readme-images/header.png)
 
 ### About-us 
 
 * About-us page contains a quote, the club’s ethos and an aside information about the purpose of the club and it’s foundation, all of them on a background picture. The page is responsive for any device screen.
 
-![About-us]()
+![About-us](docs/readme-images/about-us-page.png)
 
 * It also contains the Activities section, which can be accessed as a separate page from the navigation menu. The activities page contains 5 sections, one for each activity type. Each section is consists of:
     * Activity description;
     * A picture for that activity;
     * Activity schedule.
 
-![Activities]()
+![Activities section](docs/readme-images/activities-section.png)
 
 * Contact-us page is also a part of the About us page, however it can be accessed from the navigation bar. Contact us page comprises:
     * The address;
     * Get in touch information (phone and email);
     * A map.
 
-![Contact-us]()
+![Contact-us section](docs/readme-images/contact-us-section.png)
 
 ### Gallery page
 
 * The gallery provides the users with photos from the club's activities.
 * The page is fully responsive on all devices.
 
-![Gallery]()
+![Gallery page](docs/readme-images/gallery-page.png)
 
 ### Sign-up
 
@@ -53,7 +53,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     * Email address
 * The second fieldset offers the users the possibility to check one or more activities to join.
 
-![Sign-up page]()
+![Sign-up page](docs/readme-images/sign-up-page.png)
 
 ### Footer
 
@@ -61,7 +61,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * It is fixed positioned to ensure an easy and immediat access to the social networks.
 * The text: FIND US ON is hidden for smaller viewports to make the footer responsive.
 
-![Footer]()
+![Footer](docs/readme-images/footer.png)
 
 ### Features left to implement
 

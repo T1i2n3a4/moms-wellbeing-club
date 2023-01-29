@@ -109,6 +109,7 @@ main {
     border-radius: 0 30px 30px 0;
     background-color: #9d84bf;
     opacity: 0.85;
+    margin-top: 50px;
     
 }
 .ethos li {
@@ -382,10 +383,11 @@ legend {
     color: green;
 }
 
-/* Logo and menu bar for max width 1200px */
+
 
 @media screen and (max-width: 1200px) {
 
+    /* Logo and menu bar for max width 1200px */
     h1 {
         margin-bottom: 0;
     }
@@ -394,18 +396,16 @@ legend {
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: 80px;
-        padding-bottom: 10px;
+        height: 70px;
+        padding-bottom: 5px;
 }
     .ethos {
         margin-top: 50px;
     }
 
-    /* .sign-up-page {
-        position: relative;
-        top: 60px;} */
+    
 
-        /* Sign up page ofr max width 1200px */
+        /* Sign up page for max width 1200px */
 
         .sign-up-page {
             position: static;
@@ -427,7 +427,7 @@ legend {
 
     /* Logo and menu bar for max width 1060px */
     .logo-menu {
-        font-size: 80%;
+        /* font-size: 80%; */
         height: max-content;
     }
 
@@ -436,10 +436,10 @@ legend {
     .activities h2 {
         margin: 60px 0 50px;
     }
-    .activities {
-        font-size: 80%;
+    /* .activities {
+        font-size: 80%; */
         
-    }
+    /* } */
     .activity-type {
         margin-bottom: 10px;
     }
@@ -450,16 +450,16 @@ legend {
 
 
     /* Contact us page for max width 1060px*/
-    #contact-us-page {
+    /* #contact-us-page {
         font-size: 80%;
-    }
+    } */
 }
 
 /* Activity page for max width 945px */
 @media screen and (max-width: 945px) {
-    .activity-type {
+    /* .activity-type {
         font-size: 80%;
-    }
+    } */
 
     .image {
         width: 100%;
@@ -467,15 +467,15 @@ legend {
 }
     /* Sign up page for max width 945px */
 
-    .sign-up-page h2 {
-        font-size: 110%;
-    }
+    /* .sign-up-page h2 {
+        font-size: 110%; */
+    /* } */
 
     .fieldsets {
         display: flex;
         flex-direction: column;
         margin-top: 0;
-        padding: 50px 0 0;
+        padding: 50px 0 50px;
     }
 
     #fieldset1 {
@@ -503,21 +503,22 @@ legend {
     column-count: 3;
 
 }
+}
 
 /* About-us page for max width 850px */
-@media screen and (max-width: 850px) {
+/* @media screen and (max-width: 850px) {
     .about-us {
         font-size: 85%;
     }
-}
+} */
 
 
 /* Logo and menu bar for max width 680px */
 @media screen and (max-width: 680px) {
     
-    h1 {
+    /* h1 {
         font-size: 150%;
-    }
+    } */
     .logo-menu {
         
             height: 45px;
@@ -527,7 +528,7 @@ legend {
 /* About-us page for max width 680px */
     .about-us {
         flex-direction: column-reverse;
-        font-size: 75%;
+        /* font-size: 75%; */
         
     }
     .about-us-right-side {
@@ -551,13 +552,13 @@ legend {
         margin: 10px 15px;
         padding: 10px;
     }
-}
+
 
 /* Activities page for max width 680px */
     
-    .activities {
+    /* .activities {
         font-size: 100%;
-    }
+    } */
 
     .activities h2 {
         margin-bottom: 20px;
@@ -583,9 +584,10 @@ legend {
     }
 
     /* footer for max width 680px */
-    .hidden-on-mobile {
+    .footer-box span {
         display: none;
     }
+
 
     /* Sign up page for max width 680px */
 

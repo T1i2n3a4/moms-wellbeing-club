@@ -99,6 +99,15 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ### Color scheme
 
+* The color scheme for the website was selected based on the purpose of the club to help mothers achieving a state of wellbeing.
+* The color green represents new beginnings and growth. It contains calming attributes, but also incorporates energy.
+* The color purple brings up a feeling of trust and reliability. It is also one of the mindfulness color.
+* The backround image of the landing page incorporates both colors: green and purple. The picture represents a woman in a lavender field, touching the lavender flowers. 
+* Lavender flower is a symbol of purity, silence, devotion, serenity, grace and calmness, which also reveals the club's purpose.
+* The nuances of green and purple fro the website were extracted from the background picture using Adobe Color.
+
+![Website's color-scheme](docs/readme-images/color-scheme.png)
+
 ## Technologies
 
 * HTML

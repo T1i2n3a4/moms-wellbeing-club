@@ -131,6 +131,18 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * Balsamiq
     * Used to create the wireframes for descktop, tablet and mobile.
 
+## Testing
+
+### Validator Testing
+
+* HTML 
+    * [W3C Validator](https://validator.w3.org/) was used for HTML validation.
+    * No errors or warnings were found.
+    ![HTML validation result](docs/readme-images/HTML-checker.png)
+* CSS
+    * [W3C CSS validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) was used for CSS validation.
+    * No errors were found.
+    ![CSS validation result](docs/readme-images/w3c-css-validator.png)
 
 ## Deployment
 
@@ -144,11 +156,14 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 ### Deployment to Github Pages
 
 * The website was deployed to GitHub Pages, following the steps:
-    * GitHub Repository - Settings - General (left side menu) - Pages - Build a Deployment - Source - Branch: main - Save
+    * GitHub Repository - Settings - General (left side menu) - Pages - Build a Deployment - Source - Branch: main - Save.
     * Go back to GitHub Pages were a live link is displayed when published successfully.
     * The live link can be found [here](https://t1i2n3a4.github.io/moms-wellbeing-club/).
 
 ## Credits
+
+* Code
+
 
 
 

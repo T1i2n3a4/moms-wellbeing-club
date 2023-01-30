@@ -139,6 +139,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     * [W3C Validator](https://validator.w3.org/) was used for HTML validation.
     * No errors or warnings were found.
     ![HTML validation result](docs/readme-images/HTML-checker.png)
+
 * CSS
     * [W3C CSS validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) was used for CSS validation.
     * No errors were found.
@@ -146,17 +147,24 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ### Lighthouse Testing
 
-* About-us page
+* Performance, Accessibility, Best Practices and SEO for each page were tested by running them through Lighthouse in DevTools.
+* The results for each page are presented below.
 
-![About us page Lighthouse](docs/readme-images/about-us-lighthouse.png)
+    * About-us page
 
-* Gallery page
+    ![About us page Lighthouse](docs/readme-images/about-us-lighthouse.png)
 
-![Gallery page Lighthouse](docs/readme-images/gallery-lighthouse.png)
+    * Gallery page
 
-* Sign-up page
+    ![Gallery page Lighthouse](docs/readme-images/gallery-lighthouse.png)
 
-![Sign-up page Lighthouse](docs/readme-images/sign-up-lighthouse.png)
+    * Sign-up page
+
+    ![Sign-up page Lighthouse](docs/readme-images/sign-up-lighthouse.png)
+
+### Unfixed bugs
+
+
 
 ## Deployment
 
@@ -177,6 +185,19 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 ## Credits
 
 * Code
+    * Most of the codes used troughout the project were taken from the [Code Institute Programme](https://learn.codeinstitute.net/), icluding the CI projects.
+    * [W3Scools](https://www.w3schools.com/) and [freeCodeCamp](https://www.freecodecamp.org/) were used to solve the issues arised while developing the project.
+* Content 
+    * The website's content was written by the developer.
+    * Gareth's McGir README was used as a sample for this project.
+* Media
+    * All the pictures for the website were taken from [Pexels](https://www.pexels.com/).
+* Acknowledgements
+    * Special thanks of gratitude to my project mentor Daisy McGir for her guidance at every stage of the project,continuos support, understanding, encouragement and supply with useful information .
+    * Special thanks of gratitude to our cohort tutor Irene Neville for her continuos support, for informational material and for providing with all the facilities required during the project developement.
+     
+
+
 
 
 

@@ -144,6 +144,20 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     * No errors were found.
     ![CSS validation result](docs/readme-images/w3c-css-validator.png)
 
+### Lighthouse Testing
+
+* About-us page
+
+![About us page Lighthouse](docs/readme-images/about-us-lighthouse.png)
+
+* Gallery page
+
+![Gallery page Lighthouse](docs/readme-images/gallery-lighthouse.png)
+
+* Sign-up page
+
+![Sign-up page Lighthouse](docs/readme-images/sign-up-lighthouse.png)
+
 ## Deployment
 
 ### Version Control

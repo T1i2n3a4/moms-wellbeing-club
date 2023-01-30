@@ -2,7 +2,7 @@
 
 Moms Wellbeing Club website is a landing page for moms in Enniscorthy, St Aidans Primary School, who want to take a break from the day-to-day routine and get social. Joining the Club, they can enjoy relaxing and interesting activities, such us Yoga, Aerobics, Art and Crafts, reading books and discussing them together. In addition, they can bring their toddlers to the Toddler Group, where moms can enjoy a cup of coffee or tea, socializing with other moms, while toddlers play together and get involved in different activities. 
 Visiting this website, users will be able to find all the information about the Club, all the activities they could join, schedule for each activity. There is the possibility to book a place for activities by submitting a sign up form. There is also a Gallery with Club’s activities photos and contact information.
-The site is targeted towards moms whose children are St Aidans Primary School students. View the live site [here](http://)
+The site is targeted towards moms whose children are St Aidans Primary School students. View the live site [here](https://t1i2n3a4.github.io/moms-wellbeing-club/)
 
 ![Mockup](docs/readme-images/website-mockup.png)
 
@@ -24,7 +24,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 * It also contains the Activities section, which can be accessed as a separate page from the navigation menu. The activities page contains 5 sections, one for each activity type. Each section is consists of:
     * Activity description;
-    * A picture for that activity;
+    * A picture for that activity, including a link to Sign-up page;
     * Activity schedule.
 
 ![Activities section](docs/readme-images/activities-section.png)
@@ -92,9 +92,8 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     ![Gallery page wireframe](docs/readme-images/gallery-wireframe.png)
 
     * Sign-up page
-    
-    ![Sign-up page wireframe](docs/readme-images/sign-up-wireframe.png)
 
+    ![Sign-up page wireframe](docs/readme-images/sign-up-wireframe.png)
 
 
 ### Color scheme
@@ -107,6 +106,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * The nuances of green and purple fro the website were extracted from the background picture using Adobe Color.
 
 ![Website's color-scheme](docs/readme-images/color-scheme.png)
+
 
 ## Technologies
 
@@ -130,5 +130,27 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     * Used to extract the color scheme from the background picture.
 * Balsamiq
     * Used to create the wireframes for descktop, tablet and mobile.
+
+
+## Deployment
+
+### Version Control
+
+* The site was created on Gitpod platform.
+* The code was added to the staging area using ```git add .``` command.
+* Changes were commited using ```git commit -m “ ”``` command.
+* Commited code was pushed to the GitHub repository using ```git push``` command.
+
+### Deployment to Github Pages
+
+* The website was deployed to GitHub Pages, following the steps:
+    * GitHub Repository - Settings - General (left side menu) - Pages - Build a Deployment - Source - Branch: main - Save
+    * Go back to GitHub Pages were a live link is displayed when published successfully.
+    * The live link can be found [here](https://t1i2n3a4.github.io/moms-wellbeing-club/).
+
+## Credits
+
+
+
 
 

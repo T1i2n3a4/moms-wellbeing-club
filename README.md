@@ -114,22 +114,25 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     * The website's structure was developed using HTML as the main language.
 * CSS
     * The website was style using CSS.
-* GitHub
+* [GitHub](https://github.com/)
     * GitHub hosts the source code which is deployed using Git Pages.
 * Git
     * Commit and pushing code using Git while creating the website.
-* Font Awesome 
+* [Font Awesome](https://fontawesome.com/)
     * The icons used as Social Media links on the Footer were obtained from Font Awesome website.
-* Google Fonts
+* [Google Fonts](https://fonts.google.com/)
     * Used to select font families for website's body and headings.
-* Tinypng 
+* [Tinypng](https://tinypng.com/)
     * Used to reduce the pictures embeded on the website.
 * Paint app 
     * Used to tailor the pictures embede on the website.
-* Adobe Color
+* [Adobe Color](https://color.adobe.com/)
     * Used to extract the color scheme from the background picture.
-* Balsamiq
+* [Balsamiq](https://balsamiq.com/wireframes/)
     * Used to create the wireframes for descktop, tablet and mobile.
+* [Google maps](https://www.google.com/maps/)
+    * Used to embed the map on Contact us section.
+
 
 ## Testing
 
@@ -162,6 +165,23 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
     ![Sign-up page Lighthouse](docs/readme-images/sign-up-lighthouse.png)
 
+### Responsiveness
+
+* All website's pages are responsive on any screen sizes from 320px and upwards on Chrome, Firefox, Edge and Opera browsers.
+* The responsiveness was tested using Developer Tools set to responsive and decreasing width from maximum to 320px.
+* The website was opened on the following devices and no issues were seen:
+    * Samsung Galaxy S22
+    * Iphone 12 Mini
+
+### Form testing
+
+* The form on the Sign-up page was tested for functionality.
+* If one of the fields is empty a warning message "Please fill this field" appears when click to submit.
+* If the email field is sumbitted with a non-email text, a warning message "Please include an '@' in the email address" appears.
+* If correctc inputs are submitted, no warning or errors appear. 
+![Form testing result](docs/readme-images/form-testing.png)
+
+
 ### Unfixed bugs
 
 
@@ -170,7 +190,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 
 ### Version Control
 
-* The site was created on Gitpod platform.
+* The site was created on [Gitpod](https://www.gitpod.io/) platform.
 * The code was added to the staging area using ```git add .``` command.
 * Changes were commited using ```git commit -m “ ”``` command.
 * Commited code was pushed to the GitHub repository using ```git push``` command.
@@ -192,9 +212,13 @@ The site is targeted towards moms whose children are St Aidans Primary School st
     * Gareth's McGir README was used as a sample for this project.
 * Media
     * All the pictures for the website were taken from [Pexels](https://www.pexels.com/).
+    * [Google Maps](https://www.google.com/maps/) was used for the map on the Contact us section.
+    * [Code Institute Channel Lead Library](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) guided throughout the project developement, especially on the planning stage.
+    
 * Acknowledgements
     * Special thanks of gratitude to my project mentor Daisy McGir for her guidance at every stage of the project,continuos support, understanding, encouragement and supply with useful information .
     * Special thanks of gratitude to our cohort tutor Irene Neville for her continuos support, for informational material and for providing with all the facilities required during the project developement.
+    * Code Institute Learning Programm.
      
 
 

@@ -4,7 +4,7 @@ Moms Wellbeing Club website is a landing page for moms in Enniscorthy, St Aidans
 Visiting this website, users will be able to find all the information about the Club, all the activities they could join, schedule for each activity. There is the possibility to book a place for activities by submitting a sign up form. There is also a Gallery with Club’s activities photos and contact information.
 The site is targeted towards moms whose children are St Aidans Primary School students. View the live site [here](http://)
 
-![Mockup]()
+![Mockup](docs/readme-images/website-mockup.png)
 
 ## Features
 

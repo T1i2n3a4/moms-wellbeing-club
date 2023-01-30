@@ -5,15 +5,19 @@
     padding: 0;
     border: none;
 }
+
 html {
     height: 100%;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-family: Quando, Helvetica, sans-serif;
     letter-spacing: 4px;
     text-transform: uppercase;
-    
+
 }
 
 body {
@@ -30,7 +34,6 @@ header {
     left: 0;
     width: 100%;
     z-index: 1;
-    
 }
 
 
@@ -38,39 +41,36 @@ h1 {
     margin-bottom: 30px;
     letter-spacing: 4px;
     font-size: 200%;
-    
-    
-    
+
+
+
 }
+
 h1 a {
     text-decoration: none;
     color: #6c5488;
-    
+
 
 }
+
 .logo-menu {
     display: flex;
     justify-content: space-between;
-    /* position: fixed;
-    top: 0; */
     width: 100%;
     height: 50px;
     background: #d9d2d5;
-   
-    
-    
-    
 }
 
 .menu {
     display: flex;
-    
-    
+
+
 }
-.menu li{
-   list-style-type: none;
-   padding: 0 15px;
-   
+
+.menu li {
+    list-style-type: none;
+    padding: 0 15px;
+
 }
 
 .menu li:hover {
@@ -84,34 +84,35 @@ h1 a {
 
 .active {
     border-bottom: 1px solid #000;
-
 }
 
 main {
     margin-top: 50px;
 }
- /* About-us page */
+
+/* About-us page */
 
 .about-us {
     display: flex;
     justify-content: space-between;
     background: url(../images/lady-in-lavender-field.webp);
     background-size: cover;
-    /* position: relative;
-    top: 50px; */
 }
+
 .ethos h2 {
     text-align: center;
     padding: 30px;
 }
+
 .ethos {
     width: 100%;
     border-radius: 0 30px 30px 0;
     background-color: #9d84bf;
     opacity: 0.85;
     margin-top: 50px;
-    
+
 }
+
 .ethos li {
     display: flex;
     flex-direction: column;
@@ -123,8 +124,8 @@ main {
     background-color: #6c5488;
     opacity: 1.7;
     color: white;
-    
 }
+
 .about-us-right-side {
     display: flex;
     flex-direction: column;
@@ -134,9 +135,6 @@ main {
 }
 
 .quote {
-    /* display: flex;
-    align-items:center;
-    justify-content:center; */
     font-size: 170%;
     color: #fff
 }
@@ -155,8 +153,6 @@ aside {
 .activities {
     display: flex;
     flex-direction: column;
-    
-    
 }
 
 .activities h2 {
@@ -169,37 +165,40 @@ aside {
     flex-direction: row-reverse;
     justify-content: center;
     align-items: center;
-    background-color:#89a35c;
+    background-color: #89a35c;
     height: max-content;
     margin-bottom: 30px;
 }
+
 .activity-right-side {
     display: flex;
     flex-direction: row-reverse;
     width: 100%;
 }
 
-    /* SChedule  */
+/* SChedule  */
 .schedule {
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
     width: 100%;
-    margin: 10px 5px; 
+    margin: 10px 5px;
 }
-    /* Image */
+
+/* Image */
 
 .image {
     width: 300px;
     height: 200px;
 }
-    /* Image zoom effect */
-.image:hover {
-    transform: scale(1.1); 
-}  
 
-    /* Activity description */
+/* Image zoom effect */
+.image:hover {
+    transform: scale(1.1);
+}
+
+/* Activity description */
 .description {
     display: flex;
     align-content: center;
@@ -224,9 +223,9 @@ aside {
     display: flex;
     justify-content: space-between;
     margin: 30px;
-    }
+}
 
-    /* Contact-us details */
+/* Contact-us details */
 .contact-us-details h3 {
     padding-bottom: 20px;
 }
@@ -234,15 +233,13 @@ aside {
 .contact-us-details {
     display: flex;
     flex-direction: column;
-    /* width: 30%;
-    margin: 0 30px 30px 30px;
-    padding: 0 30px 30px 30px; */
 }
+
 .address {
     margin-bottom: 30px;
 }
 
-    /* Map */
+/* Map */
 .map {
     width: 60%;
     line-height: 50px;
@@ -260,14 +257,15 @@ footer {
     width: 100%;
     height: 50px;
 }
+
 .footer-box {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
 }
 
 .footer-box span {
-    text-transform:uppercase;
+    text-transform: uppercase;
     font-size: 20px;
 }
 
@@ -287,9 +285,9 @@ footer {
     column-count: 4;
     column-gap: 5px;
 }
-#photos > img {
+
+#photos>img {
     width: 100%;
-    
 }
 
 /* Sign-up page */
@@ -301,40 +299,35 @@ footer {
     background: url(../images/lady-in-lavender-field.webp);
     background-size: cover;
     min-height: 100vh;
-    
-
 }
 
 .sign-up-page h2 {
     padding-top: 100px;
     text-align: center;
     color: #fff;
-    
 }
 
 .fieldsets {
     display: flex;
     justify-content: space-around;
-    /* margin-top: 100px; */
     padding: 50px;
-    
 }
 
-#fieldset1, #fieldset2 {
+#fieldset1,
+#fieldset2 {
     width: 30%;
     background-color: #9d84bf;
-    /* opacity: 0.7; */
-    
 }
 
 legend {
     text-transform: uppercase;
     font-size: 25px;
     letter-spacing: 2px;
-    background-color:#6c5488;
+    background-color: #6c5488;
     color: #fff;
-    
+
 }
+
 .text-input {
     background: white;
     text-align: center;
@@ -345,24 +338,27 @@ legend {
     border: 3px solid #6c5488;
     border-radius: 5px;
 }
+
 .text-input:hover {
     transform: scale(1.05);
 }
- #fieldset1 label {
-    margin-left: 15%;
- }
 
- .checkbox {
+#fieldset1 label {
+    margin-left: 15%;
+}
+
+.checkbox {
     margin-bottom: 15px;
     margin-left: 15%;
- }
+}
 
- .center-button {
+.center-button {
     display: flex;
     justify-content: center;
     padding: 0 50px 50px;
-    
- }
+
+}
+
 .join-button {
     margin: 0 30px 30px;
     padding: 20px 30px;
@@ -374,6 +370,7 @@ legend {
     border-radius: 10px;
     font-size: 100%;
 }
+
 .join-button:hover {
     background-color: #fff;
     color: green;
@@ -387,26 +384,27 @@ legend {
     h1 {
         margin-bottom: 0;
     }
-    
+
     .logo-menu {
         display: flex;
         flex-direction: column;
         align-items: center;
         height: 70px;
         padding-bottom: 5px;
-}
-        
+    }
 
-        /* Sign up page for max width 1200px */
 
-        #fieldset1, #fieldset2 {
-            width: 48%;
-        }
+    /* Sign up page for max width 1200px */
 
-        .sign-up-page h2 {
-            margin: 0;
-            letter-spacing: 0;
-}
+    #fieldset1,
+    #fieldset2 {
+        width: 48%;
+    }
+
+    .sign-up-page h2 {
+        margin: 0;
+        letter-spacing: 0;
+    }
 }
 
 /*  max width 1060px */
@@ -418,7 +416,7 @@ legend {
     .activities h2 {
         margin: 60px 0 50px;
     }
-    
+
     .activity-type {
         margin-bottom: 10px;
     }
@@ -442,11 +440,12 @@ legend {
     }
 
     #fieldset1 {
-      
+
         align-self: center;
         margin: 0 0 30px;
         width: 70%;
     }
+
     #fieldset2 {
         align-self: center;
         width: 70%;
@@ -458,80 +457,88 @@ legend {
 
     .checkbox {
         margin-bottom: 15px;
-}
+    }
+
     /* Gallery page for max width 945px */
 
-#photos {
-    column-count: 3;
+    #photos {
+        column-count: 3;
 
-}
+    }
 }
 
 
 @media screen and (max-width: 820px) {
 
-     body {
+    body {
         font-size: 18px;
     }
 
     /* Logo and menu bar for max width 820px */
-    
+
     .logo-menu {
-        
+
         height: 65px;
     }
 
     /* Activities page for max width 820px */
-    
+
     .activities h2 {
         margin-bottom: 20px;
         margin-top: 50px;
     }
+
     .activity-type {
         display: flex;
         flex-direction: column;
     }
+
     .activities-right-side {
-        display:flex
+        display: flex
     }
 
     .schedule {
         width: 50%;
     }
+
     .image {
         width: 100%;
         height: auto;
     }
+
     .description {
         width: 100%;
     }
 
 }
-    @media screen and (max-width: 680px) {
 
-        /* Logo and menu bar for max width 680px */
-    
+@media screen and (max-width: 680px) {
+
+    /* Logo and menu bar for max width 680px */
+
     h1 {
         font-size: 155%;
         letter-spacing: 0;
     }
 
-/* About-us page for max width 680px */
+    /* About-us page for max width 680px */
     .about-us {
         flex-direction: column-reverse;
-                
+
     }
+
     .about-us-right-side {
         flex-direction: column;
         width: 100%;
         margin-left: 0;
     }
+
     aside {
-        
+
         margin-top: 30px;
         padding: 15px;
     }
-    
+
     .quote {
         margin-top: 30px;
         align-self: center;
@@ -556,6 +563,7 @@ legend {
     .fieldsets #fieldset1 {
         width: 95%;
     }
+
     .sign-up-page h2 {
         font-size: 20px;
         padding-top: 70px;
@@ -610,10 +618,10 @@ legend {
         font-size: 20px;
     }
 
-   .activities .image {
+    .activities .image {
         width: 135px;
         height: 90px;
-}
+    }
 
     /* Contact us page for max width 480px */
 
@@ -628,6 +636,7 @@ legend {
         margin: 15px;
 
     }
+
     .contact-us-details h3 {
         padding-bottom: 10px;
     }
@@ -645,51 +654,52 @@ legend {
         line-height: 0;
     }
 
-/* Footer max width 480px */
-.social-networks a {
-    padding: 20px;
-    font-size: 20px;
-}
+    /* Footer max width 480px */
+    .social-networks a {
+        padding: 20px;
+        font-size: 20px;
+    }
 
-/* Sign up page for max width 480px */
+    /* Sign up page for max width 480px */
 
-.sign-up-page h2 {
-    font-size: 16px;
-}
+    .sign-up-page h2 {
+        font-size: 16px;
+    }
 
-.fieldsets {
-    padding: 20px 0 0;
-}
+    .fieldsets {
+        padding: 20px 0 0;
+    }
 
-legend {
-    font-size: 18px;
-    letter-spacing: normal;
-}
-#fieldset1 {
-   
-    margin: 0 5px 15px;
-}
+    legend {
+        font-size: 18px;
+        letter-spacing: normal;
+    }
 
-#fieldset2 {
-    width: 95%;
-}
+    #fieldset1 {
 
-.text-input {
-    /* width: 95%; */
-    margin-bottom: 5px;
-}
+        margin: 0 5px 15px;
+    }
 
-.join-button {
-    margin: 15px;
-    padding: 10px 20px
-}
+    #fieldset2 {
+        width: 95%;
+    }
 
-/* Gallery page for max width 480px */
+    .text-input {
+        /* width: 95%; */
+        margin-bottom: 5px;
+    }
 
-#photos {
-    column-count: 2;
+    .join-button {
+        margin: 15px;
+        padding: 10px 20px
+    }
 
-}
+    /* Gallery page for max width 480px */
+
+    #photos {
+        column-count: 2;
+
+    }
 }
 
 /* Logo and menu bar for max width 320px */
@@ -700,11 +710,8 @@ legend {
 
     /* Gallery page for max width 320px */
 
-#photos {
-    column-count: 1;
+    #photos {
+        column-count: 1;
 
+    }
 }
-}
-
-
-

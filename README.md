@@ -75,9 +75,12 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * Website's wireframe was created in Balsamiq.
 * Desktop and Mobile versions are presented below.
 
-    * About us page
+  <details>
+  <summary>* About us page</summary>
+  ![About-us wireframe](docs/readme-images/about-us-wireframe.png)
+  </details>  
 
-    ![About-us wireframe](docs/readme-images/about-us-wireframe.png)
+    
 
     * Activities section
 
@@ -178,7 +181,7 @@ The site is targeted towards moms whose children are St Aidans Primary School st
 * The form on the Sign-up page was tested for functionality.
 * If one of the fields is empty a warning message "Please fill this field" appears when click to submit.
 * If the email field is sumbitted with a non-email text, a warning message "Please include an '@' in the email address" appears.
-* If correctc inputs are submitted, no warning or errors appear. 
+* If correct inputs are submitted, no warning or errors appear. 
 ![Form testing result](docs/readme-images/form-testing.png)
 
 

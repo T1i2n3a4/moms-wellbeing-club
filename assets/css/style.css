@@ -259,9 +259,6 @@ iframe {
 footer {
     background: #d9d2d5;
     width: 100%;
-    position: fixed;
-    bottom: 0;
-    right: 0;
     height: 50px;
 }
 .footer-box {

@@ -1,8 +1,10 @@
 # MOMS WELLBEING CLUB
 
+## Introduction
+
 Moms Wellbeing Club website is a landing page for moms in Enniscorthy, St Aidans Primary School, who want to take a break from the day-to-day routine and get social. Joining the Club, they can enjoy relaxing and interesting activities, such us Yoga, Aerobics, Art and Crafts, reading books and discussing them together. In addition, they can bring their toddlers to the Toddler Group, where moms can enjoy a cup of coffee or tea, socializing with other moms, while toddlers play together and get involved in different activities. 
 Visiting this website, users will be able to find all the information about the Club, all the activities they could join, schedule for each activity. There is the possibility to book a place for activities by submitting a sign up form. There is also a Gallery with Club’s activities photos and contact information.
-The site is targeted towards moms whose children are St Aidans Primary School students. View the live site [here](https://t1i2n3a4.github.io/moms-wellbeing-club/)
+The site is targeted towards moms whose children are St Aidans Primary School students. View the live site [here.](https://t1i2n3a4.github.io/moms-wellbeing-club/)
 
 ![Mockup](docs/readme-images/website-mockup.png)
 
@@ -198,7 +200,9 @@ As a frequent visitor I expect to:
 * HTML 
     * [W3C Validator](https://validator.w3.org/) was used for HTML validation.
     * No errors or warnings were found.
-    ![HTML validation result](docs/readme-images/HTML-checker.png)
+    ![HTML validation result](docs/readme-images/about-us-html-validator.png)
+    ![HTML validation result](docs/readme-images/gallery-html-validator.png)
+    ![HTML validation result](docs/readme-images/sign-up-html-validator.png)
 
 * CSS
     * [W3C CSS validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) was used for CSS validation.
@@ -275,7 +279,8 @@ As a frequent visitor I expect to:
 * Acknowledgements
     * Special thanks of gratitude to my project mentor Daisy McGir for her guidance at every stage of the project,continuos support, understanding, encouragement and supply with useful information .
     * Special thanks of gratitude to our cohort tutor Irene Neville for her continuos support, for informational material and for providing with all the facilities required during the project developement.
-    * Code Institute Learning Programm.
+    * Code Institute Team.
+    * Thank you to my family for their understanding, patience, support and encouragement.
      
 
 

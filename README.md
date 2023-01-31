@@ -234,13 +234,26 @@ As a frequent visitor I expect to:
     * Samsung Galaxy S22
     * Iphone 12 Mini
 
-### Form testing
+### Functional testing
 
-* The form on the Sign-up page was tested for functionality.
-* If one of the fields is empty a warning message "Please fill this field" appears when click to submit.
-* If the email field is sumbitted with a non-email text, a warning message "Please include an '@' in the email address" appears.
-* If correct inputs are submitted, no warning or errors appear. 
-![Form testing result](docs/readme-images/form-testing.png)
+* Navigation Links
+
+    * Clicking on the navigation links, all the links lead to the respective pages.
+
+* Social Media Links
+
+    * Clicking on the Social Media icons, each of the links opens the respective Social Media Platform.
+    * As the webpage is for a fictive Club, the links open the Social Media Platform, not the Club's page on that platform.
+    * As expected, each of the Social Media Platform opens in a new tab.
+
+
+* Form testing
+
+    * The form on the Sign-up page was tested for functionality.
+    * If one of the fields is empty a warning message "Please fill this field" appears when click to submit.
+    * If the email field is sumbitted with a non-email text, a warning message "Please include an '@' in the email address" appears.
+    * If correct inputs are submitted, no warning or errors appear. 
+    ![Form testing result](docs/readme-images/form-testing.png)
 
 
 ### Unfixed bugs

@@ -80,6 +80,7 @@ As a frequent visitor, I expect to:
     * Activity description;
     * A picture for that activity, including a link to Sign-up page;
     * Activity schedule.
+* This will allow the users to choose which activity they are going to join.
 
 ![Activities section](docs/readme-images/activities-section.png)
 
@@ -87,6 +88,7 @@ As a frequent visitor, I expect to:
     * The address;
     * Get in touch information (phone and email);
     * A map.
+* This will allow the users to easily find the contact details and get in toch with the club.
 
 ![Contact-us section](docs/readme-images/contact-us-section.png)
 

@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Moms Wellbeing Club website is a landing page for moms in Enniscorthy, St Aidans Primary School, who want to take a break from the day-to-day routine and get social. Joining the Club, they can enjoy relaxing and interesting activities, such us Yoga, Aerobics, Art and Crafts, reading books and discussing them together. In addition, they can bring their toddlers to the Toddler Group, where moms can enjoy a cup of coffee or tea, socializing with other moms, while toddlers play together and get involved in different activities. 
+Moms Wellbeing Club website is a landing page for moms in Enniscorthy, St Mary's Primary School, who want to take a break from the day-to-day routine and get social. Joining the Club, they can enjoy relaxing and interesting activities, such us Yoga, Aerobics, Art and Crafts, reading books and discussing them together. In addition, they can bring their toddlers to the Toddler Group, where moms can enjoy a cup of coffee or tea, socializing with other moms, while toddlers play together and get involved in different activities. 
 Visiting this website, users will be able to find all the information about the Club, all the activities they could join, schedule for each activity. There is the possibility to book a place for activities by submitting a sign up form. There is also a Gallery with Club’s activities photos and contact information.
-The site is targeted towards moms whose children are St Aidans Primary School students. View the live site [here.](https://t1i2n3a4.github.io/moms-wellbeing-club/)
+The site is targeted towards moms whose children are St Mary's Primary School students. View the live site [here.](https://t1i2n3a4.github.io/moms-wellbeing-club/)
 
 ![Mockup](docs/readme-images/website-mockup.png)
 
@@ -22,7 +22,7 @@ The target audience for this website are:
 
 * Website Owner
 
-As a website Owner I intend to:
+As a website Owner, I intend to:
 
     * provide the users with clear and easy to read information about the Club;
     * provide the users with the information about the activities and the schedules;
@@ -34,9 +34,9 @@ As a website Owner I intend to:
 
 * First Time Visitors
 
-As a first time visitor I expect to:
+As a first time visitor, I expect to:
 
-    * easily understant the main pupose of the site and learn more about the Club;
+    * easily understand the main purpose of the site and learn more about the Club;
     * easily find the activities purposed for joining.
     * easily and intuitively navigate throughout the site to find content;
     * access the menu from any part of the page;
@@ -45,7 +45,7 @@ As a first time visitor I expect to:
 
 * Returning Visitors
 
-As a returning visitor I expect to:
+As a returning visitor, I expect to:
 
     * find information about the activities;
     * find the schedules for the activities;
@@ -55,7 +55,7 @@ As a returning visitor I expect to:
 
 * Frequent Users
 
-As a frequent visitor I expect to:
+As a frequent visitor, I expect to:
 
     * easily access the Gallery;
     * easily join one or more activities.
@@ -112,7 +112,7 @@ As a frequent visitor I expect to:
 ### Footer
 
 * The footer includes icons and links to social media networks.
-* It is fixed positioned to ensure an easy and immediat access to the social networks.
+* It is fixed positioned to ensure an easy and immediate access to the social networks.
 * The text: FIND US ON is hidden for smaller viewports to make the footer responsive.
 
 ![Footer](docs/readme-images/footer.png)
@@ -160,9 +160,9 @@ As a frequent visitor I expect to:
 * The color scheme for the website was selected based on the purpose of the club to help mothers achieving a state of wellbeing.
 * The color green represents new beginnings and growth. It contains calming attributes, but also incorporates energy.
 * The color purple brings up a feeling of trust and reliability. It is also one of the mindfulness color.
-* The backround image of the landing page incorporates both colors: green and purple. The picture represents a woman in a lavender field, touching the lavender flowers. 
+* The background image of the landing page incorporates both colors: green and purple. The picture represents a woman in a lavender field, touching the lavender flowers. 
 * Lavender flower is a symbol of purity, silence, devotion, serenity, grace and calmness, which also reveals the club's purpose.
-* The nuances of green and purple fro the website were extracted from the background picture using Adobe Color.
+* The nuances of green and purple for the website were extracted from the background picture using Adobe Color.
 
 ![Website's color-scheme](docs/readme-images/color-scheme.png)
 
@@ -172,23 +172,23 @@ As a frequent visitor I expect to:
 * HTML
     * The website's structure was developed using HTML as the main language.
 * CSS
-    * The website was style using CSS.
+    * The website was styled using CSS.
 * [GitHub](https://github.com/)
-    * GitHub hosts the source code which is deployed using Git Pages.
+    * GitHub hosts the source code that is deployed using Git Pages.
 * Git
-    * Commit and pushing code using Git while creating the website.
+    * Commit and pushing code, using Git while creating the website.
 * [Font Awesome](https://fontawesome.com/)
     * The icons used as Social Media links on the Footer were obtained from Font Awesome website.
 * [Google Fonts](https://fonts.google.com/)
     * Used to select font families for website's body and headings.
 * [Tinypng](https://tinypng.com/)
-    * Used to reduce the pictures embeded on the website.
+    * Used to reduce the pictures embedded on the website.
 * Paint app 
-    * Used to tailor the pictures embede on the website.
+    * Used to tailor the pictures embedded on the website.
 * [Adobe Color](https://color.adobe.com/)
     * Used to extract the color scheme from the background picture.
 * [Balsamiq](https://balsamiq.com/wireframes/)
-    * Used to create the wireframes for descktop, tablet and mobile.
+    * Used to create the wireframes for desktop, tablet and mobile.
 * [Google maps](https://www.google.com/maps/)
     * Used to embed the map on Contact us section.
 
@@ -199,14 +199,17 @@ As a frequent visitor I expect to:
 
 * HTML 
     * [W3C Validator](https://validator.w3.org/) was used for HTML validation.
-    * No errors or warnings were found.
+    * No errors or warnings have been found.
+
     ![HTML validation result](docs/readme-images/about-us-html-validator.png)
+
     ![HTML validation result](docs/readme-images/gallery-html-validator.png)
+
     ![HTML validation result](docs/readme-images/sign-up-html-validator.png)
 
 * CSS
     * [W3C CSS validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) was used for CSS validation.
-    * No errors were found.
+    * No errors have been found.
     ![CSS validation result](docs/readme-images/w3c-css-validator.png)
 
 ### Lighthouse Testing
@@ -251,7 +254,7 @@ As a frequent visitor I expect to:
 
     * The form on the Sign-up page was tested for functionality.
     * If one of the fields is empty a warning message "Please fill this field" appears when click to submit.
-    * If the email field is sumbitted with a non-email text, a warning message "Please include an '@' in the email address" appears.
+    * If the email field is submitted with a non-email text, a warning message "Please include an '@' in the email address" appears.
     * If correct inputs are submitted, no warning or errors appear. 
     ![Form testing result](docs/readme-images/form-testing.png)
 
@@ -266,8 +269,8 @@ As a frequent visitor I expect to:
 
 * The site was created on [Gitpod](https://www.gitpod.io/) platform.
 * The code was added to the staging area using ```git add .``` command.
-* Changes were commited using ```git commit -m “ ”``` command.
-* Commited code was pushed to the GitHub repository using ```git push``` command.
+* Changes were committed using ```git commit -m “ ”``` command.
+* Committed code was pushed to the GitHub repository using ```git push``` command.
 
 ### Deployment to Github Pages
 
@@ -279,19 +282,19 @@ As a frequent visitor I expect to:
 ## Credits
 
 * Code
-    * Most of the codes used troughout the project were taken from the [Code Institute Programme](https://learn.codeinstitute.net/), icluding the CI projects.
-    * [W3Scools](https://www.w3schools.com/) and [freeCodeCamp](https://www.freecodecamp.org/) were used to solve the issues arised while developing the project.
+    * Most of the codes used throughout the project were taken from the [Code Institute Programme](https://learn.codeinstitute.net/), including the CI projects.
+    * [W3Scools](https://www.w3schools.com/) and [freeCodeCamp](https://www.freecodecamp.org/) were used to solve the issues aroused while developing the project.
 * Content 
     * The website's content was written by the developer.
-    * Gareth's McGir README was used as a sample for this project.
+    * Gareth's McGirr README was used as a sample for this project.
 * Media
     * All the pictures for the website were taken from [Pexels](https://www.pexels.com/).
     * [Google Maps](https://www.google.com/maps/) was used for the map on the Contact us section.
-    * [Code Institute Channel Lead Library](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) guided throughout the project developement, especially on the planning stage.
+    * [Code Institute Channel Lead Library](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) guided throughout the project development, especially on the planning stage.
     
 * Acknowledgements
-    * Special thanks of gratitude to my project mentor Daisy McGir for her guidance at every stage of the project,continuos support, understanding, encouragement and supply with useful information .
-    * Special thanks of gratitude to our cohort tutor Irene Neville for her continuos support, for informational material and for providing with all the facilities required during the project developement.
+    * Special thanks of gratitude to my project mentor Daisy McGirr for her guidance at every stage of the project, continuous support, understanding, encouragement and supply with useful information .
+    * Special thanks of gratitude to our cohort tutor Irene Neville for her continuous support, for informational material and for providing with all the facilities required during the project development.
     * Code Institute Team.
     * Thank you to my family for their understanding, patience, support and encouragement.
      

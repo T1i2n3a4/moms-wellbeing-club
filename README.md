@@ -272,7 +272,6 @@ As a frequent visitor, I expect to:
 
     * Clicking on the navigation links, all the links lead to the respective pages.
     
-
 * Social Media Links
 
     * Clicking on the Social Media icons, each of the links opens the respective Social Media Platform.
@@ -288,9 +287,15 @@ As a frequent visitor, I expect to:
     * If correct inputs are submitted, no warning or errors appear. 
     ![Form testing result](docs/readme-images/form-testing.png)
 
+### Fixed bugs
+
+After getting a contrast error while evaluating the website's accessibility:
+  * Quote color font on the About us page was changed from white to black to increase contrast;
+  * Sign-up page heading was changed from white to black to increase contrast.
 
 ### Unfixed bugs
 
+No unfixed bugs.
 
 
 ## Deployment

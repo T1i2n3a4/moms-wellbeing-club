@@ -173,6 +173,7 @@ As a frequent visitor, I expect to:
 
 * Pictures filter to be added to gallery page, to sort them by activity type.
 * A sign-up form for mothers who would like to become volunteers by introducing and organising new activities.
+* 
 
 
 ## Design
@@ -287,9 +288,11 @@ As a frequent visitor, I expect to:
 
 * All website's pages are responsive on any screen sizes from 320px and upwards on Chrome, Firefox, Edge and Opera browsers.
 * The responsiveness was tested using Developer Tools set to responsive and decreasing width from maximum to 320px.
-* The website was opened on the following devices and no issues were seen:
+* The website was opened on the following devices:
+    * DESKTOP-HS5R5Q3
     * Samsung Galaxy S22
     * Iphone 12 Mini
+    * MacBook Pro
 
 ### Accessibility
 
@@ -388,7 +391,7 @@ The project is cloned on my local machine.
     * [Code Institute Channel Lead Library](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) guided throughout the project development, especially on the planning stage.
     
 ## Acknowledgements
-* Special thanks of gratitude to my project mentor Daisy McGirr for her guidance at every stage of the project, continuous support, understanding, encouragement and supply with useful information .
+* Special thanks of gratitude to my project mentor Daisy McGirr for her guidance at every stage of the project, continuous support, understanding, encouragement and supply with useful information.
 * Special thanks of gratitude to our cohort tutor Irene Neville for her continuous support, for informational material and for providing with all the facilities required during the project development.
 * Code Institute Team.
 * Thank you to my family for their understanding, patience, support and encouragement.

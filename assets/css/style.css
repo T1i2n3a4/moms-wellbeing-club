@@ -573,9 +573,9 @@ legend {
 
 /* max width 480px */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
 
-    /* Logo and menu bar for max width 480px */
+    /* Logo and menu bar for max width 500px */
 
     h1 {
         letter-spacing: 0;
@@ -591,7 +591,7 @@ legend {
         padding: 0 5px;
     }
 
-    /* About us page for max width 480px */
+    /* About us page for max width 500px */
 
     .quote {
         margin-top: 10px;
@@ -612,7 +612,7 @@ legend {
         margin-top: 20px;
     }
 
-    /* Activities max width 480px*/
+    /* Activities max width 500px*/
     .activities h2 {
         font-size: 20px;
     }
@@ -622,7 +622,7 @@ legend {
         height: 90px;
     }
 
-    /* Contact us page for max width 480px */
+    /* Contact us page for max width 500px */
 
     #contact-us-heading {
         margin: 45px 0 20px;
@@ -652,13 +652,13 @@ legend {
         line-height: 0;
     }
 
-    /* Footer max width 480px */
+    /* Footer max width 500px */
     .social-networks a {
         padding: 20px;
         font-size: 20px;
     }
 
-    /* Sign up page for max width 480px */
+    /* Sign up page for max width 500px */
 
     .sign-up-page h2 {
         font-size: 16px;
@@ -691,7 +691,7 @@ legend {
         padding: 10px 20px
     }
 
-    /* Gallery page for max width 480px */
+    /* Gallery page for max width 500px */
 
     #photos {
         column-count: 2;

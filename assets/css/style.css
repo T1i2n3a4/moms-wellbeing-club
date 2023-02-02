@@ -437,6 +437,10 @@ legend {
 
     /* Sign up page for max width 945px */
 
+    .sign-up-page h2 {
+        color: #fff;
+    }
+
     .fieldsets {
         display: flex;
         flex-direction: column;

@@ -336,7 +336,7 @@ After getting a contrast error while evaluating the website's accessibility:
 
 ### Unfixed bugs
 
-No unfixed bugs.
+The links in the navigation bar to Activities and Contact-us sections are not underlined when active (those sections are parts of the main page).
 
 
 ## Deployment

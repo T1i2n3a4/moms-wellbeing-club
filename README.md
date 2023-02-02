@@ -20,45 +20,45 @@ The target audience for this website are:
 
 ### User stories
 
-* Website Owner
+#### Website Owner
 
 As a website Owner, I intend to:
 
-    * provide the users with clear and easy to read information about the Club;
-    * provide the users with the information about the activities and the schedules;
-    * offer to the user the possibility to contact the Club;
-    * offer to the user the possibility to sign-up and join the Club for one or more activities;
-    * ensure the access to Club's Social Media Networks;
-    * ensure the user with a good visual experience when using the website;
-    * make the website accessible and easy to navigate.
+* provide the users with clear and easy to read information about the Club;
+* provide the users with the information about the activities and the schedules;
+* offer to the user the possibility to contact the Club;
+* offer to the user the possibility to sign-up and join the Club for one or more activities;
+* ensure the access to Club's Social Media Networks;
+* ensure the user with a good visual experience when using the website;
+* make the website accessible and easy to navigate.
 
-* First Time Visitors
+#### First Time Visitors
 
 As a first time visitor, I expect to:
 
-    * easily understand the main purpose of the site and learn more about the Club;
-    * easily find the activities purposed for joining.
-    * easily and intuitively navigate throughout the site to find content;
-    * access the menu from any part of the page;
-    * be able to view the website and read all information on all screen sizes;
-    * see a visually appealing design.
+* easily understand the main purpose of the site and learn more about the Club;
+* easily find the activities purposed for joining.
+* easily and intuitively navigate throughout the site to find content;
+* access the menu from any part of the page;
+* be able to view the website and read all information on all screen sizes;
+* see a visually appealing design.
 
-* Returning Visitors
+#### Returning Visitors
 
 As a returning visitor, I expect to:
 
-    * find information about the activities;
-    * find the schedules for the activities;
-    * find the Club's contact details;
-    * find Club's social media links;
-    * easily sign-up and join the Club.
+* find information about the activities;
+* find the schedules for the activities;
+* find the Club's contact details;
+* find Club's social media links;
+* easily sign-up and join the Club.
 
-* Frequent Users
+#### Frequent Users
 
 As a frequent visitor, I expect to:
 
-    * easily access the Gallery;
-    * easily join one or more activities.
+* easily access the Gallery;
+* easily join one or more activities.
 
 ## Features
 
@@ -225,6 +225,7 @@ As a frequent visitor, I expect to:
 * CSS
     * [W3C CSS validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) was used for CSS validation.
     * No errors have been found.
+
     ![CSS validation result](docs/readme-images/w3c-css-validator.png)
 
 ### Lighthouse Testing

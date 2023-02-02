@@ -88,7 +88,7 @@ As a frequent visitor, I expect to:
     * The address;
     * Get in touch information (phone and email);
     * A map.
-* This will allow the users to easily find the contact details and get in toch with the club.
+* This will allow the users to easily find the contact details and get in touch with the club.
 
 ![Contact-us section](docs/readme-images/contact-us-section.png)
 
@@ -118,6 +118,14 @@ As a frequent visitor, I expect to:
 * The text: FIND US ON is hidden for smaller viewports to make the footer responsive.
 
 ![Footer](docs/readme-images/footer.png)
+
+### 404 Page
+
+* A 404 page is implemented to display when the users navigate to a broken link.
+* The 404 page contains an information that makes the user aware that the page he looks for couldn't be found.
+* The 404 page also contains a link that allows the user to return to main website.
+
+![Footer](docs/readme-images/404page.png)
 
 ### Features left to implement
 

@@ -133,7 +133,6 @@ As a frequent visitor, I expect to:
 * A sign-up form for mothers who would like to become volunteers by introducing and organising new activities.
 
 
-
 ## Design
 
 ### Wireframes
@@ -141,13 +140,10 @@ As a frequent visitor, I expect to:
 * Website's wireframe was created in Balsamiq.
 * Desktop and Mobile versions are presented below.
 
-  <details>
-  <summary>* About us page</summary>
-  ![About-us wireframe](docs/readme-images/about-us-wireframe.png)
-  </details>  
-
-    
-
+  
+    * About us page
+    ![About-us wireframe](docs/readme-images/about-us-wireframe.png)
+  
     * Activities section
 
     ![Activities section wireframe](docs/readme-images/activities-wireframe.png)

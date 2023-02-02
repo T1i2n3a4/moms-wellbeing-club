@@ -249,11 +249,29 @@ As a frequent visitor, I expect to:
     * Samsung Galaxy S22
     * Iphone 12 Mini
 
+### Accessibility
+
+* Website's accessibility evaluation was done using [Wave Accessibility](https://wave.webaim.org/) tool.
+* No errors have been found.
+* Accessibility evaluation results are presented below.
+    * About us page accessibility evaluation result:
+
+    ![About us page accessibility evaluation result](docs/readme-images/about-us-accessibility-evaluation.png)
+
+    * Gallery page accessibility evaluation result:
+
+    ![Gallery page accessibility evaluation result](docs/readme-images/gallery-accessibility-evaluation.png)
+
+    * Sign-up page accessibility evaluation result:
+
+    ![Sign-up page accessibility evaluation result](docs/readme-images/sign-up-accessibility-evaluation.png)
+
 ### Functional testing
 
 * Navigation Links
 
     * Clicking on the navigation links, all the links lead to the respective pages.
+    
 
 * Social Media Links
 

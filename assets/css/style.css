@@ -379,9 +379,12 @@ legend {
 /* 404 file */
 
 .centered {
-    text-align: center;
     padding-top: 50px;
+    text-align: center;
 }
+
+
+
 
 
 @media screen and (max-width: 1200px) {

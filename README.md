@@ -355,6 +355,18 @@ The links in the navigation bar to Activities and Contact-us sections are not un
     * Go back to GitHub Pages were a live link is displayed when published successfully.
     * The live link can be found [here](https://t1i2n3a4.github.io/moms-wellbeing-club/).
 
+### Clone the Repository Code Locally
+
+1. Navigate to the project's repository
+2. Click on the Code button
+3. Copy HTTPS repository link 
+4. Open Git Bash (previously installed)
+5. Type git clone https://github.com/T1i2n3a4/moms-wellbeing-club.git
+6. Press Enter
+
+The project is cloned on my local machine.
+
+
 ## Credits
 
 * Code

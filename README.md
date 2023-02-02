@@ -1,10 +1,51 @@
 # MOMS WELLBEING CLUB
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [User Experience (UX)](#user-experience-ux)
+    * [Target audience](#target-audience)
+    * [User stories](#user-stories)
+        * [Website Owner](#website-owner)
+        * [First Time Visitors](#first-time-visitors)
+        * [Returning Visitors](#returning-visitors)
+        * [Frequent Users](#frequent-users)
+* [Features](#features)
+    * [Header](#header)
+    * [About-us page](#about-us-page)
+    * [Gallery page](#gallery-page)
+    * [Sign-up page](#sign-up-page)
+    * [Footer](#footer)
+    * [404 Page](#404-page)
+    * [Features left to implement](#features-left-to-implement)
+* [Design](#design)
+    * [Wireframes](#wireframes)
+    * [Color scheme](#color-scheme)
+* [Technologies](#technologies)
+* [Testing](#testing)
+    * [Validator Testing](#validator-testing)
+    * [Lighthouse Testing](#lighthouse-testing)
+    * [Responsiveness](#responsiveness)
+    * [Accessibility](#accessibility)
+    * [Functional testing](#functional-testing)
+    * [Fixed bugs](#fixed-bugs)
+    * [Unfixed bugs](#unfixed-bugs)
+* [Deployment](#deployment)
+    * [Version Control](#version-control)
+    * [Deployment to Github Pages](#deployment-to-github-pages)
+* [Credits](#credits)
+* [Acknowledgements](#acknowledgements)
+
+
+
+
+
 ## Introduction
 
 Moms Wellbeing Club website is a landing page for moms in Enniscorthy, St Mary's Primary School, who want to take a break from the day-to-day routine and get social. Joining the Club, they can enjoy relaxing and interesting activities, such us Yoga, Aerobics, Art and Crafts, reading books and discussing them together. In addition, they can bring their toddlers to the Toddler Group, where moms can enjoy a cup of coffee or tea, socializing with other moms, while toddlers play together and get involved in different activities. 
 Visiting this website, users will be able to find all the information about the Club, all the activities they could join, schedule for each activity. There is the possibility to book a place for activities by submitting a sign up form. There is also a Gallery with Club’s activities photos and contact information.
-The site is targeted towards moms whose children are St Mary's Primary School students. View the live site [here.](https://t1i2n3a4.github.io/moms-wellbeing-club/)
+The site is targeted towards moms whose children are St Mary's Primary School students.  
+[View the live site here.](https://t1i2n3a4.github.io/moms-wellbeing-club/)
 
 ![Mockup](docs/readme-images/website-mockup.png)
 
@@ -70,7 +111,7 @@ As a frequent visitor, I expect to:
 
 ![Navigation Menu](docs/readme-images/header.png)
 
-### About-us 
+### About-us page
 
 * About-us page contains a quote, the club’s ethos and provides the user with information about the purpose of the club and it’s foundation, all of them on a background picture, that makes the site visually appealing. The page is responsive for any device screen.
 
@@ -99,7 +140,7 @@ As a frequent visitor, I expect to:
 
 ![Gallery page](docs/readme-images/gallery-page.png)
 
-### Sign-up
+### Sign-up page
 
 * Sign-up page consists of a thank you heading and the suggestion to join the club.
 * A submission form comprising 2 fieldsets and a submission button is also included on the page, all of them being fully responsive on any devices. 
@@ -317,7 +358,7 @@ No unfixed bugs.
 ## Credits
 
 * Code
-    * Most of the codes used throughout the project were taken from the [Code Institute Programme](https://learn.codeinstitute.net/), including the CI projects.
+    * Most of the codes used throughout the project were learnt at the [Code Institute Programme](https://learn.codeinstitute.net/), including the CI projects.
     * [W3Scools](https://www.w3schools.com/) and [freeCodeCamp](https://www.freecodecamp.org/) were used to solve the issues aroused while developing the project.
 * Content 
     * The website's content was written by the developer.
@@ -333,11 +374,11 @@ No unfixed bugs.
     * [Google Maps](https://www.google.com/maps/) was used for the map on the Contact us section.
     * [Code Institute Channel Lead Library](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) guided throughout the project development, especially on the planning stage.
     
-* Acknowledgements
-    * Special thanks of gratitude to my project mentor Daisy McGirr for her guidance at every stage of the project, continuous support, understanding, encouragement and supply with useful information .
-    * Special thanks of gratitude to our cohort tutor Irene Neville for her continuous support, for informational material and for providing with all the facilities required during the project development.
-    * Code Institute Team.
-    * Thank you to my family for their understanding, patience, support and encouragement.
+## Acknowledgements
+* Special thanks of gratitude to my project mentor Daisy McGirr for her guidance at every stage of the project, continuous support, understanding, encouragement and supply with useful information .
+* Special thanks of gratitude to our cohort tutor Irene Neville for her continuous support, for informational material and for providing with all the facilities required during the project development.
+* Code Institute Team.
+* Thank you to my family for their understanding, patience, support and encouragement.
      
 
 

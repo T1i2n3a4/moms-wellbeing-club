@@ -114,7 +114,7 @@ As a frequent visitor, I expect to:
 ### Footer
 
 * The footer includes icons and links to social media networks.
-* It is fixed positioned to ensure an easy and immediate access to the social networks.
+* It ensures the users with an easy access to the social networks.
 * The text: FIND US ON is hidden for smaller viewports to make the footer responsive.
 
 ![Footer](docs/readme-images/footer.png)

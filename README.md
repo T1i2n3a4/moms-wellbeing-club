@@ -323,7 +323,13 @@ No unfixed bugs.
     * The website's content was written by the developer.
     * Gareth's McGirr README was used as a sample for this project.
 * Media
-    * All the pictures for the website were taken from [Pexels](https://www.pexels.com/).
+    * All the pictures for the website were taken from [Pexels](https://www.pexels.com/):
+        * Backgroung picture "lady-in-lavender-field.png" - author Anastasiya Lobanovskaya.
+        * Yoga pictures on Activities section and Gallery page - author Elina Fairytale.
+        * Toddlers pictures on Activities section and Gallery page - author Cottonbro Studio.
+        * Aerobics pictures on Activities section and Gallery page - author Gustavo Fring.
+        * Art and Crafts pictures on Activities section and Gallery page - author Antoni Shkraba.
+        * Book Club pictures on Activities section and Gallery page - author Yaroslav Shuraev.
     * [Google Maps](https://www.google.com/maps/) was used for the map on the Contact us section.
     * [Code Institute Channel Lead Library](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) guided throughout the project development, especially on the planning stage.
     

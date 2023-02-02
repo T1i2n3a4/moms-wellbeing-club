@@ -217,6 +217,11 @@ As a frequent visitor, I expect to:
 
     ![HTML validation result](docs/readme-images/sign-up-html-validator.png)
 
+    ![HTML validation result](docs/readme-images/404-html-validator.png)
+    
+
+
+
 * CSS
     * [W3C CSS validator (Jigsaw)](https://jigsaw.w3.org/css-validator/) was used for CSS validation.
     * No errors have been found.

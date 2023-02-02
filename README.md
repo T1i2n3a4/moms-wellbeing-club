@@ -293,6 +293,7 @@ As a frequent visitor, I expect to:
     * Samsung Galaxy S22
     * Iphone 12 Mini
     * MacBook Pro
+* No issues have been seen.
 
 ### Accessibility
 

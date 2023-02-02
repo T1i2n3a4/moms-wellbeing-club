@@ -33,6 +33,7 @@
 * [Deployment](#deployment)
     * [Version Control](#version-control)
     * [Deployment to Github Pages](#deployment-to-github-pages)
+    * [Clone the Repository Code Locally](#clone-the-repository-code-locally)
 * [Credits](#credits)
 * [Acknowledgements](#acknowledgements)
 
